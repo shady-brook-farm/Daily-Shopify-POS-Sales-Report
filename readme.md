@@ -69,7 +69,7 @@ VISUALIZE total_sales
 ### Step 2: Set Up Google Sheets
 1. **Create a new Google Sheets** document
 2. **Go to Extensions** → **Apps Script**
-3. **Replace the default code** with the Sales Data Processor script
+3. **Replace the default code** with the Sales Data Processor script. The code can be [found here](/code.gs)
 4. **Save the project** as "Shopify Sales Processor"
 5. **Return to your spreadsheet**
 
