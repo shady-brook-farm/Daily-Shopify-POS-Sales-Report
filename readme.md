@@ -63,8 +63,8 @@ FROM sales
     product_variant_title_at_time_of_sale ASC
 VISUALIZE total_sales
 ```
-
-**Note**: Replace `'PRODUCT NAMES HERE', 'COMMA SEPERATED'` with your actual product names, or remove the WHERE clause entirely to analyze all products.
+> [!NOTE]
+> Replace `'PRODUCT NAMES HERE', 'COMMA SEPERATED'` with your actual product names, or remove the WHERE clause entirely to analyze all products.
 
 ### Step 2: Set Up Google Sheets
 1. **Create a new Google Sheets** document
@@ -280,4 +280,4 @@ Ready to transform your Shopify sales data into actionable insights?
 
 ---
 
-*Built specifically for Shopify merchants who want better insights from their sales data.*
+*Built with 💙 specifically for Shopify merchants who want better insights from their sales data.*
