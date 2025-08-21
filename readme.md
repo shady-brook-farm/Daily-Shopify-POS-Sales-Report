@@ -1,4 +1,4 @@
-# Shopify POS Sales Data Processor for Google Sheets
+# Shopify POS Sales Data Processor for Google Sheets ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fshady-brook-farm%2FDaily-Shopify-POS-Sales-Report&label=Hits&icon=code-slash&color=%23198754&message=&style=flat&tz=UTC)
 
 A powerful Google Apps Script that transforms Shopify sales data exports into beautifully formatted pivot tables with advanced heatmap visualization and comprehensive analytics. Perfect for Shopify store owners and managers who need quick insights from their sales data.
 
